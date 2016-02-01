@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B8B8'
+    - '#000000'
+    - '#787878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.3205255860037204
+  lightness: 0.822150407273216
+  rhythmicContrast: 0.5203195218405386
+  saturation: 0.1138979347764375
+cta: {}
+layout_spectrum: 0.768581
+name: DISTRICT
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.594595
